@@ -11,8 +11,6 @@ So the plan is :
 - A website that can provide the same, fetched from the same API which also holds a link to invite the bot.
 - Branding the whole project along with optimisation of the website UI/UX
 
-Updated organisational link : 
-
 The data will primarily be sourced from VIT internal exams but other students and teachers can use them as reference materials as well.
 
 Continuation of the project (w/ API and frontend in development) : https://github.com/VIT-EduLink
